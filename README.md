@@ -23,7 +23,7 @@ Para poder ejecutar el proyecto de forma local se deben tener instalados los sig
 Asumiendo que se cuentan con los programas previamente mencionados para poder ejecutar esta parte del proyecto, el siguiente paso a paso describirá cómo poder desplegar el proyecto de forma local
 
 1. Se debe clonar el repositorio de Java en una carpeta dentro del equipo en que se quiere desplegar.
-2. Luego se debe abrir el Sprin Tools Suite 4 y allí importar el proyecto.
+2. Luego se debe abrir el Sprin Tools Suite 4 y allí importar el proyecto como proyecto Maven existente.
 3. Luego, solo se debe dar click derecho sobre le proyecto y en la opción de "Run as", seleccionar "Spring Boot App"
 
 ## Construido con 🛠️
